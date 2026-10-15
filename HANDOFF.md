@@ -51,7 +51,7 @@ The Vercel project was deployed via CLI and is **not yet connected to the GitHub
 6. **SEO, analytics, branding, domain** (HEN-491) — OG images, sitemap, robots, JSON-LD, Vercel Web Analytics, brand kit, custom domain, real inbox.
 
 ## Legal: California talent-agency licence (blocker before procuring work)
-California's Talent Agencies Act requires a Labor Commissioner talent-agency licence for anyone who procures employment for artists, even incidentally by managers (Marathon v. Blasi). Before Human Agency procures bookings/deals for talent, it must either get licensed or operate as management working with a licensed agency partner. The site already says screen deals go through a licensed partner agency. Tracked in Linear (see HEN issue "California talent-agency licence").
+California's Talent Agencies Act requires a Labor Commissioner talent-agency licence for anyone who procures employment for artists, even incidentally by managers (Marathon v. Blasi). Before Human Agency procures bookings/deals for talent, it must either get licensed or operate as management working with a licensed agency partner. The site already says screen deals go through a licensed partner agency. Tracked in Linear: [HEN-493](https://linear.app/henryfinnai/issue/HEN-493).
 
 ## Rules from Henry
 - No Supabase or paid databases. Ask Henry before anything that costs money (domains, paid plans, paid CMS/auth tiers).

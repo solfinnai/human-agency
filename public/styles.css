@@ -14,3 +14,5 @@ main section{padding:60px 5vw;max-width:1200px;margin:auto}.narrow{max-width:760
 form{display:grid;gap:14px}label{display:grid;gap:6px;color:var(--mut)}input,select,textarea{background:var(--card);border:1px solid #ffffff22;color:var(--fg);padding:12px;border-radius:10px;font:inherit}
 .seg{display:flex;gap:18px;flex-wrap:wrap}.seg label{display:flex;gap:8px;align-items:center;color:var(--fg)}
 footer{padding:40px 5vw;color:var(--mut);border-top:1px solid #ffffff12;text-align:center;font-size:.9rem}
+.clusters{columns:3 300px;column-gap:16px}.cluster{break-inside:avoid;background:var(--card);border:1px solid #ffffff12;border-radius:18px;padding:18px 20px;margin-bottom:16px}
+.cluster h3{margin:.2em 0 .5em;color:var(--acc)}details{border-top:1px solid #ffffff10;padding:8px 0}summary{cursor:pointer;font-weight:600}details p{color:var(--mut);font-size:.9rem;margin:.5em 0 0}

@@ -1,0 +1,996 @@
+{
+ "universal": [
+  [
+   "Creator - platform",
+   "YouTube long-form creator"
+  ],
+  [
+   "Creator - platform",
+   "Short-form video creator (TikTok / Reels / Shorts)"
+  ],
+  [
+   "Creator - platform",
+   "Instagram / photo-first creator"
+  ],
+  [
+   "Creator - platform",
+   "Livestreamer (Twitch / Kick / YouTube Live / TikTok Live)"
+  ],
+  [
+   "Creator - platform",
+   "Podcaster (audio / video)"
+  ],
+  [
+   "Creator - platform",
+   "Newsletter / Substack / blog writer"
+  ],
+  [
+   "Creator - platform",
+   "X / Threads / Reddit / Discord commentator"
+  ],
+  [
+   "Creator - platform",
+   "UGC creator (brand-commissioned content)"
+  ],
+  [
+   "On-camera & performance",
+   "Host / presenter / MC"
+  ],
+  [
+   "On-camera & performance",
+   "Actor / on-camera talent"
+  ],
+  [
+   "On-camera & performance",
+   "Model / brand face / ambassador"
+  ],
+  [
+   "On-camera & performance",
+   "Voice talent / narrator"
+  ],
+  [
+   "Expertise",
+   "Expert / coach / educator"
+  ],
+  [
+   "Expertise",
+   "Speaker / keynote / panelist"
+  ],
+  [
+   "Expertise",
+   "Journalist / critic / reviewer"
+  ],
+  [
+   "Business",
+   "Founder / entrepreneur / brand owner"
+  ],
+  [
+   "Business",
+   "Community builder / event organizer"
+  ],
+  [
+   "Creative & production",
+   "Writer / scriptwriter"
+  ],
+  [
+   "Creative & production",
+   "Photographer / videographer"
+  ],
+  [
+   "Creative & production",
+   "Editor / producer / director"
+  ],
+  [
+   "Creative & production",
+   "Artist / designer"
+  ]
+ ],
+ "niches": [
+  {
+   "niche": "Anime & Manga",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Mangaka / manga artist",
+    "Manga assistant",
+    "Anime director",
+    "Key / in-between animator",
+    "Character designer",
+    "Seiyuu (Japanese voice actor)",
+    "English dub voice actor",
+    "ADR director / script adapter",
+    "Translator / localizer",
+    "Anime reviewer / AnimeTuber",
+    "AMV / edit creator",
+    "Anisong singer (OP/ED artist)",
+    "Convention guest / panelist",
+    "Figure & merch designer",
+    "Anime news journalist",
+    "Watch-party / anime cinema host"
+   ]
+  },
+  {
+   "niche": "Webtoons & Webcomics",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Webtoon creator (Originals)",
+    "CANVAS / indie webcomic creator",
+    "Webtoon writer",
+    "Line artist",
+    "Colorist",
+    "Background artist / assistant",
+    "Letterer / typesetter",
+    "Webtoon translator",
+    "Webtoon studio founder",
+    "Patreon / Ko-fi webcomic creator",
+    "IP-to-screen adaptation talent"
+   ]
+  },
+  {
+   "niche": "Comics & Graphic Novels",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Comic writer",
+    "Penciller",
+    "Inker",
+    "Colorist",
+    "Letterer",
+    "Cover / variant artist",
+    "Comics editor",
+    "Self-publisher / Kickstarter creator",
+    "Graphic novelist (KidLit / YA)",
+    "Artist Alley artist",
+    "Comic critic / YouTuber",
+    "Comic shop owner-creator"
+   ]
+  },
+  {
+   "niche": "Cosplay & Conventions",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Cosplayer (craft / performance)",
+    "Cosplay photographer",
+    "Prop / armor maker",
+    "Wig stylist / SFX makeup artist",
+    "Costume designer / seamstress",
+    "Convention host / MC",
+    "Cosplay contest judge",
+    "Convention organizer",
+    "Walk act / character performer",
+    "Booth / brand ambassador",
+    "Cosplay tutorial educator"
+   ]
+  },
+  {
+   "niche": "VTubers & Virtual Talent",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Corporate VTuber",
+    "Indie VTuber",
+    "Live2D rigger",
+    "3D modeler / rigger",
+    "Character illustrator ('mama')",
+    "Clip channel editor / translator",
+    "VTuber manager / producer",
+    "Virtual idol / Vsinger",
+    "Motion-capture performer",
+    "AI virtual influencer operator"
+   ]
+  },
+  {
+   "niche": "Gaming & Streaming",
+   "cluster": "Gaming",
+   "fit": 5,
+   "roles": [
+    "Variety streamer",
+    "Game-specific creator (Minecraft / Fortnite / Roblox)",
+    "Speedrunner",
+    "Game reviewer / critic",
+    "Lore / video-essay creator",
+    "Indie game developer",
+    "Game designer",
+    "Game artist",
+    "Game composer",
+    "Game voice actor",
+    "Mocap performer",
+    "Community manager",
+    "Modder / map maker",
+    "Roblox / UEFN UGC developer"
+   ]
+  },
+  {
+   "niche": "Esports",
+   "cluster": "Gaming",
+   "fit": 4,
+   "roles": [
+    "Pro player",
+    "Coach / analyst",
+    "Shoutcaster / commentator",
+    "Host / interviewer",
+    "Observer / broadcast producer",
+    "Team owner / GM",
+    "Team content creator",
+    "Tournament organizer",
+    "Esports journalist",
+    "Referee / admin"
+   ]
+  },
+  {
+   "niche": "Tabletop, TTRPG & Board Games",
+   "cluster": "Gaming",
+   "fit": 4,
+   "roles": [
+    "Game master / actual-play performer",
+    "Tabletop game designer",
+    "Illustrator / cartographer",
+    "Miniature painter / sculptor",
+    "Board game reviewer",
+    "Crowdfunding creator",
+    "Chess streamer / titled player",
+    "TCG pro / creator",
+    "Puzzle creator",
+    "Tabletop convention organizer"
+   ]
+  },
+  {
+   "niche": "Film & Hollywood",
+   "cluster": "Entertainment",
+   "fit": 3,
+   "roles": [
+    "Actor",
+    "Director",
+    "Screenwriter",
+    "Producer",
+    "Showrunner",
+    "Cinematographer / DP",
+    "Film editor",
+    "Casting director",
+    "Stunt performer / coordinator",
+    "Composer",
+    "Costume designer",
+    "Production designer",
+    "VFX artist",
+    "Film critic",
+    "Festival programmer",
+    "Movie YouTuber / essayist",
+    "Indie / short-film creator"
+   ]
+  },
+  {
+   "niche": "Animation",
+   "cluster": "Entertainment",
+   "fit": 5,
+   "roles": [
+    "Animation director",
+    "Storyboard artist",
+    "2D animator",
+    "3D animator",
+    "Character designer",
+    "Background painter",
+    "Rigger",
+    "Animation voice actor",
+    "Animation writer",
+    "Indie animator (YouTube / TikTok)",
+    "Motion designer",
+    "Animation studio founder"
+   ]
+  },
+  {
+   "niche": "Music",
+   "cluster": "Entertainment",
+   "fit": 3,
+   "roles": [
+    "Recording artist",
+    "Singer-songwriter",
+    "Producer / beatmaker",
+    "DJ",
+    "Session musician",
+    "Topline songwriter",
+    "Music YouTuber / educator",
+    "Cover artist",
+    "Music video director",
+    "Tour manager",
+    "A&R",
+    "Mix / mastering engineer",
+    "Music journalist",
+    "Gear reviewer"
+   ]
+  },
+  {
+   "niche": "K-pop, J-pop & Idol Culture",
+   "cluster": "Entertainment",
+   "fit": 4,
+   "roles": [
+    "Idol / trainee",
+    "Dance cover crew",
+    "Vocal coach",
+    "Choreographer",
+    "Reaction creator",
+    "Fan translator",
+    "Fandom account owner",
+    "Idol photographer",
+    "Fan event organizer"
+   ]
+  },
+  {
+   "niche": "Dance",
+   "cluster": "Entertainment",
+   "fit": 3,
+   "roles": [
+    "Choreographer",
+    "Professional dancer",
+    "Dance crew",
+    "Dance trend creator",
+    "Dance instructor / studio owner",
+    "Competition judge",
+    "Ballet / contemporary artist",
+    "Tour / backup dancer",
+    "Movement director"
+   ]
+  },
+  {
+   "niche": "Comedy",
+   "cluster": "Entertainment",
+   "fit": 2,
+   "roles": [
+    "Stand-up comedian",
+    "Sketch creator",
+    "Improv performer",
+    "Comedy writer",
+    "Late-night / TV writer",
+    "Comedy podcaster",
+    "Skit / prank creator",
+    "Crowd-work clip creator",
+    "Club owner / booker",
+    "Meme page / satirist"
+   ]
+  },
+  {
+   "niche": "Podcasting & Audio",
+   "cluster": "Entertainment",
+   "fit": 3,
+   "roles": [
+    "Podcast host",
+    "Co-host / panelist",
+    "Podcast producer",
+    "Audio engineer",
+    "Narrative audio director",
+    "Audiobook narrator",
+    "Podcast network founder",
+    "Clip editor",
+    "Live podcast tour performer"
+   ]
+  },
+  {
+   "niche": "Fashion",
+   "cluster": "Style & luxury",
+   "fit": 2,
+   "roles": [
+    "Fashion model",
+    "Fashion designer",
+    "Stylist",
+    "Fashion creator (OOTD / haul)",
+    "Streetwear founder",
+    "Sneaker creator / reseller",
+    "Fashion photographer",
+    "Creative director",
+    "Fashion editor",
+    "Thrift / vintage reseller",
+    "Upcycler / tailor",
+    "Fit model"
+   ]
+  },
+  {
+   "niche": "Beauty & Skincare",
+   "cluster": "Style & luxury",
+   "fit": 2,
+   "roles": [
+    "Makeup artist",
+    "Beauty creator (GRWM / tutorials)",
+    "Dermatologist / skincare expert creator",
+    "Hairstylist",
+    "Nail artist",
+    "Esthetician",
+    "Barber creator",
+    "Beauty brand founder",
+    "Cosmetic chemist creator",
+    "SFX makeup artist",
+    "Fragrance creator (FragTok)"
+   ]
+  },
+  {
+   "niche": "Luxury & Watches",
+   "cluster": "Style & luxury",
+   "fit": 2,
+   "roles": [
+    "Luxury lifestyle creator",
+    "Watch reviewer / collector",
+    "Jewelry designer",
+    "Supercar / yacht creator",
+    "Luxury travel creator",
+    "Fine-dining critic",
+    "Art advisor / collector",
+    "Luxury reseller / authenticator",
+    "Etiquette coach"
+   ]
+  },
+  {
+   "niche": "Food & Cooking",
+   "cluster": "Food & drink",
+   "fit": 2,
+   "roles": [
+    "Chef",
+    "Home cook creator",
+    "Restaurant / food reviewer",
+    "Mukbang creator",
+    "Baker / pastry artist",
+    "Recipe developer",
+    "Food stylist",
+    "Food photographer",
+    "Cookbook author",
+    "Restaurant founder",
+    "Dietitian / nutritionist creator",
+    "Pitmaster / BBQ creator",
+    "Food scientist creator",
+    "Street-food travel creator",
+    "Culinary TV host",
+    "Competitive eater"
+   ]
+  },
+  {
+   "niche": "Beverages: Wine, Coffee & Mixology",
+   "cluster": "Food & drink",
+   "fit": 1,
+   "roles": [
+    "Sommelier",
+    "Mixologist / bartender creator",
+    "Barista / coffee creator",
+    "Brewer / distiller founder",
+    "Wine educator",
+    "Tea expert",
+    "Zero-proof creator",
+    "Beverage brand founder"
+   ]
+  },
+  {
+   "niche": "Travel & Hospitality",
+   "cluster": "Lifestyle",
+   "fit": 2,
+   "roles": [
+    "Travel vlogger",
+    "Travel photographer",
+    "Digital nomad creator",
+    "Points & miles expert",
+    "Budget / backpacker creator",
+    "Luxury travel creator",
+    "Travel writer / guidebook author",
+    "Tour guide / experience host",
+    "Hotel reviewer",
+    "Van-life creator",
+    "Drone videographer",
+    "Travel advisor creator",
+    "Cruise creator"
+   ]
+  },
+  {
+   "niche": "Outdoors & Adventure",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Thru-hiker creator",
+    "Climber",
+    "Mountaineer",
+    "Survival / bushcraft expert",
+    "Camping / overlanding creator",
+    "Fishing creator",
+    "Hunting creator",
+    "Adventure photographer / filmmaker",
+    "Expedition guide",
+    "Outdoor gear reviewer",
+    "Naturalist educator"
+   ]
+  },
+  {
+   "niche": "Action & Board Sports",
+   "cluster": "Sports",
+   "fit": 1,
+   "roles": [
+    "Surfer",
+    "Skateboarder",
+    "Snowboarder / skier",
+    "BMX / MTB rider",
+    "Parkour athlete",
+    "Skydiver / wingsuit",
+    "Action-sports filmer",
+    "Team manager",
+    "Brand ambassador"
+   ]
+  },
+  {
+   "niche": "Sports (pro, Olympic & NIL)",
+   "cluster": "Sports",
+   "fit": 1,
+   "roles": [
+    "Pro athlete",
+    "NIL college athlete",
+    "High-school recruit creator",
+    "Olympian / Paralympian",
+    "Coach",
+    "Broadcaster / commentator",
+    "Sports analyst creator",
+    "Fantasy / betting creator",
+    "Trainer / physio",
+    "Sports executive",
+    "Trick-shot creator",
+    "Women's sports creator",
+    "Retired-athlete media personality"
+   ]
+  },
+  {
+   "niche": "Fitness & Strength",
+   "cluster": "Health & body",
+   "fit": 2,
+   "roles": [
+    "Personal trainer",
+    "Online coach",
+    "Bodybuilder",
+    "Powerlifter / strongman",
+    "CrossFit / Hyrox athlete",
+    "Calisthenics creator",
+    "Running / marathon creator",
+    "Cycling creator",
+    "Fitness model",
+    "Group fitness instructor",
+    "Physical therapist creator",
+    "Sports nutritionist",
+    "Gym owner",
+    "Fitness app founder",
+    "MMA / combat athlete"
+   ]
+  },
+  {
+   "niche": "Wellness, Yoga & Mindfulness",
+   "cluster": "Health & body",
+   "fit": 1,
+   "roles": [
+    "Yoga teacher",
+    "Meditation teacher",
+    "Breathwork coach",
+    "Pilates instructor",
+    "Sleep expert",
+    "Mental-health creator / therapist",
+    "Holistic nutrition coach",
+    "Retreat host",
+    "Sound healer",
+    "Wellness brand founder",
+    "Somatic coach"
+   ]
+  },
+  {
+   "niche": "Health & Medicine",
+   "cluster": "Health & body",
+   "fit": 1,
+   "roles": [
+    "Doctor creator (MD/DO)",
+    "Nurse creator",
+    "Dentist creator",
+    "Pharmacist creator",
+    "Medical researcher",
+    "Dermatologist",
+    "Psychologist / therapist",
+    "Longevity / biohacker",
+    "Patient advocate",
+    "Health journalist"
+   ]
+  },
+  {
+   "niche": "Tech & Gadgets",
+   "cluster": "Tech & money",
+   "fit": 3,
+   "roles": [
+    "Tech reviewer",
+    "Unboxer",
+    "PC builder",
+    "Software engineer creator",
+    "Coding educator",
+    "Cybersecurity expert",
+    "Tech founder",
+    "Tech journalist",
+    "UX / product designer",
+    "Developer advocate",
+    "Repair creator",
+    "Smart-home creator"
+   ]
+  },
+  {
+   "niche": "AI",
+   "cluster": "Tech & money",
+   "fit": 4,
+   "roles": [
+    "AI educator / explainer",
+    "AI tool reviewer",
+    "AI researcher",
+    "Workflow / prompt creator",
+    "AI filmmaker / gen-video artist",
+    "AI artist",
+    "AI founder",
+    "AI policy commentator",
+    "Open-source AI developer",
+    "AI newsletter writer",
+    "Virtual / AI influencer operator"
+   ]
+  },
+  {
+   "niche": "Crypto & Web3",
+   "cluster": "Tech & money",
+   "fit": 2,
+   "roles": [
+    "Crypto analyst / trader creator",
+    "KOL",
+    "NFT artist",
+    "DAO / community lead",
+    "Protocol founder",
+    "Crypto educator",
+    "On-chain researcher",
+    "X Spaces host",
+    "Meme-culture creator",
+    "Web3 gaming creator",
+    "Builder / developer"
+   ]
+  },
+  {
+   "niche": "Finance & Investing",
+   "cluster": "Tech & money",
+   "fit": 1,
+   "roles": [
+    "Personal finance creator",
+    "Stock / investing analyst",
+    "CFP / advisor creator",
+    "Real-estate investor",
+    "Tax / accounting creator",
+    "Debt / credit coach",
+    "Economics commentator",
+    "FIRE creator",
+    "Trading educator",
+    "Fintech founder"
+   ]
+  },
+  {
+   "niche": "Business, Startups & Careers",
+   "cluster": "Tech & money",
+   "fit": 2,
+   "roles": [
+    "Founder / CEO creator",
+    "VC / investor creator",
+    "Career coach",
+    "Recruiter creator",
+    "Marketing / sales expert",
+    "Productivity creator",
+    "Small-business owner creator",
+    "Leadership speaker",
+    "B2B LinkedIn creator",
+    "Side-hustle creator"
+   ]
+  },
+  {
+   "niche": "Education & Learning",
+   "cluster": "Knowledge",
+   "fit": 2,
+   "roles": [
+    "Teacher creator (TeacherTok)",
+    "Tutor",
+    "Edu-YouTuber",
+    "Language teacher / polyglot",
+    "History creator",
+    "Math / science explainer",
+    "Course creator",
+    "Professor creator",
+    "Study-with-me creator",
+    "Librarian creator"
+   ]
+  },
+  {
+   "niche": "Science & Nature",
+   "cluster": "Knowledge",
+   "fit": 1,
+   "roles": [
+    "Scientist creator",
+    "Astronomy / space creator",
+    "Biologist / zoologist",
+    "Science communicator",
+    "Wildlife filmmaker",
+    "Experimenter / maker",
+    "Paleontology creator",
+    "Museum educator"
+   ]
+  },
+  {
+   "niche": "Sustainability & Climate",
+   "cluster": "Knowledge",
+   "fit": 1,
+   "roles": [
+    "Climate communicator",
+    "Zero-waste creator",
+    "Sustainable-fashion creator",
+    "Activist / organizer",
+    "Climate scientist",
+    "Eco-brand founder",
+    "Regenerative farmer",
+    "Repair / thrift creator",
+    "Policy expert",
+    "Clean-energy explainer"
+   ]
+  },
+  {
+   "niche": "Faith & Spirituality",
+   "cluster": "Community & identity",
+   "fit": 1,
+   "roles": [
+    "Pastor / minister creator",
+    "Worship musician",
+    "Christian creator",
+    "Muslim creator",
+    "Jewish creator",
+    "Scripture teacher",
+    "Spiritual coach",
+    "Astrology / tarot creator",
+    "Faith author",
+    "Faith-based filmmaker",
+    "Ministry founder"
+   ]
+  },
+  {
+   "niche": "Parenting & Family",
+   "cluster": "Community & identity",
+   "fit": 1,
+   "roles": [
+    "Mom / dad creator",
+    "Family vlogger (with child-safety guardrails)",
+    "Pediatrician creator",
+    "Child psychologist",
+    "Doula / midwife",
+    "Lactation consultant",
+    "Homeschool educator",
+    "Sleep consultant",
+    "Special-needs parent advocate",
+    "Kids'-product founder"
+   ]
+  },
+  {
+   "niche": "Kids & Family Entertainment",
+   "cluster": "Community & identity",
+   "fit": 3,
+   "roles": [
+    "Children's host / entertainer",
+    "Kids' content producer",
+    "Children's author / illustrator",
+    "Puppeteer",
+    "Toy reviewer (adult-run)",
+    "Educational kids' creator",
+    "Kids' musician",
+    "Animated kids'-channel founder"
+   ]
+  },
+  {
+   "niche": "Pets & Animals",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Pet influencer (owner-managed)",
+    "Pet trainer",
+    "Veterinarian creator",
+    "Groomer",
+    "Rescue advocate",
+    "Exotic-animal keeper",
+    "Pet photographer",
+    "Pet-brand founder",
+    "Animal-sanctuary creator",
+    "Equestrian creator"
+   ]
+  },
+  {
+   "niche": "Cars & Motorsport",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Car reviewer",
+    "Builder / modifier",
+    "Mechanic creator",
+    "Detailer",
+    "Race driver",
+    "Sim racer",
+    "Motorsport journalist",
+    "Car photographer",
+    "Classic restorer",
+    "EV creator",
+    "Motorcycle creator",
+    "Car-meet organizer"
+   ]
+  },
+  {
+   "niche": "Home, DIY & Interior",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Interior designer",
+    "DIY / renovation creator",
+    "Home organizer",
+    "Architect creator",
+    "Woodworker",
+    "Maker / 3D-printing creator",
+    "Real-estate agent creator",
+    "CleanTok creator",
+    "Furniture flipper",
+    "Home-brand founder"
+   ]
+  },
+  {
+   "niche": "Gardening & Homesteading",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Gardener creator",
+    "Homesteader",
+    "Plant influencer",
+    "Farmer creator",
+    "Florist",
+    "Permaculture educator",
+    "Beekeeper",
+    "Landscape designer"
+   ]
+  },
+  {
+   "niche": "Art & Illustration",
+   "cluster": "Creative arts",
+   "fit": 5,
+   "roles": [
+    "Illustrator",
+    "Painter / fine artist",
+    "Digital artist",
+    "Tattoo artist",
+    "Muralist / street artist",
+    "Sculptor",
+    "Art educator",
+    "Concept artist",
+    "Lettering artist",
+    "Curator / critic",
+    "Process / speed-paint creator",
+    "Commission artist"
+   ]
+  },
+  {
+   "niche": "Design & Architecture",
+   "cluster": "Creative arts",
+   "fit": 2,
+   "roles": [
+    "Graphic designer",
+    "Brand designer",
+    "UX / UI designer",
+    "Industrial designer",
+    "Type designer",
+    "Architect",
+    "Motion designer",
+    "Design educator",
+    "Design critic"
+   ]
+  },
+  {
+   "niche": "Photography & Filmmaking (craft)",
+   "cluster": "Creative arts",
+   "fit": 3,
+   "roles": [
+    "Photographer",
+    "Videographer",
+    "Drone pilot",
+    "Colorist",
+    "Editor",
+    "Gear reviewer",
+    "Photo educator",
+    "Wedding photographer",
+    "Street photographer"
+   ]
+  },
+  {
+   "niche": "Books, BookTok & Publishing",
+   "cluster": "Creative arts",
+   "fit": 3,
+   "roles": [
+    "Novelist",
+    "Self-published author",
+    "BookTok / Bookstagram creator",
+    "BookTuber",
+    "Audiobook narrator",
+    "Literary agent",
+    "Editor",
+    "Cover designer",
+    "Poet",
+    "Book-club host",
+    "Romantasy / genre creator",
+    "Bookstore owner creator"
+   ]
+  },
+  {
+   "niche": "Collectibles, Toys & Trading Cards",
+   "cluster": "Fandom & pop culture",
+   "fit": 5,
+   "roles": [
+    "Card breaker / live seller",
+    "Toy collector creator",
+    "Designer-toy artist",
+    "Figure / Funko reviewer",
+    "Grader / authenticator",
+    "Sneaker collector",
+    "Comic collector / CGC creator",
+    "Auction host",
+    "Collectibles shop owner"
+   ]
+  },
+  {
+   "niche": "True Crime, Mystery & Paranormal",
+   "cluster": "Entertainment",
+   "fit": 2,
+   "roles": [
+    "True-crime podcaster",
+    "True-crime YouTuber",
+    "Investigative journalist",
+    "Paranormal investigator",
+    "ARG / mystery creator",
+    "Forensic expert creator"
+   ]
+  },
+  {
+   "niche": "Drag, Nightlife & LGBTQ+ Culture",
+   "cluster": "Community & identity",
+   "fit": 2,
+   "roles": [
+    "Drag performer",
+    "Ballroom performer",
+    "Nightlife host / promoter",
+    "LGBTQ+ creator",
+    "Activist / speaker"
+   ]
+  },
+  {
+   "niche": "Weddings & Events",
+   "cluster": "Lifestyle",
+   "fit": 1,
+   "roles": [
+    "Wedding planner",
+    "Wedding photographer",
+    "Officiant",
+    "Event designer",
+    "Bridal stylist",
+    "Event DJ / MC"
+   ]
+  },
+  {
+   "niche": "Lifestyle, Vlogging & ASMR",
+   "cluster": "Lifestyle",
+   "fit": 2,
+   "roles": [
+    "Daily vlogger",
+    "ASMR artist",
+    "Minimalist creator",
+    "Productivity / aesthetic creator",
+    "Couple creator"
+   ]
+  },
+  {
+   "niche": "Magic & Variety Arts",
+   "cluster": "Entertainment",
+   "fit": 2,
+   "roles": [
+    "Magician",
+    "Mentalist",
+    "Circus / acrobat",
+    "Juggler",
+    "Street performer",
+    "Ventriloquist"
+   ]
+  }
+ ]
+}

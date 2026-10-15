@@ -1,6 +1,12 @@
 # Human Agency — Dev Handoff
 
-Talent agency site for anime, webtoons and comics: artists, webtoon creators, illustrators, writers, animators, voice actors, VTubers, streamers, content creators, influencers, cosplayers, models, actors, celebrities, musicians, dancers, esports talent, podcasters, photographers, translators.
+**Positioning:** Human Agency, the talent agency for fandom: the people behind the panels and the stars around them.
+
+- **Year-1 core desks:** webtoon, comic & manga creators; cosplayers; voice actors; indie VTubers; anime & gaming creators.
+- **Services:** talent management, brand-deals desk, licensing & adaptation desk (film/TV deals through a licensed partner agency), events & conventions, merch.
+- **Differentiators:** talent keeps their IP; transparent payouts; fandom-native brand packages.
+- **Niches we're building:** 52 niches in 13 clusters (fandom is the flagship), each with its specific roles, plus 21 universal roles. Source: the Oct 15 2026 niche research ([report](https://docs.google.com/document/d/1K0Y9-RZnAx8ezqfZFcgFYWtB_sDajYKoADVCBs2jLlA/edit), [sheet](https://docs.google.com/spreadsheets/d/1aWpjW8tMw4RKE1IeAkjW0fsF3A-HvwjUPfogKrDoZvM/edit)).
+- Commission rates are deliberately **not** on the public site.
 
 ## Links
 | What | URL |
@@ -15,9 +21,10 @@ Talent agency site for anime, webtoons and comics: artists, webtoon creators, il
 
 ## Architecture (v0)
 Plain static HTML/CSS, zero dependencies, zero backend.
-- `build.py` — tiny Python generator. Category list (`CATS`), services (`SERV`), nav and every page body live here. Writes HTML to `public/`.
+- `build.py` — tiny Python generator. Core desks (`DESKS`), services (`SERV`), differentiators (`DIFF`), nav and every page body live here. Writes HTML to `public/`.
+- `data/niches.json` — niche taxonomy (52 niches: cluster, fit score 1-5, roles; plus 21 universal roles), exported from the research `taxonomy.py`. Drives the "Niches we're building" sections.
 - `public/styles.css` — all styling (dark theme, pink→purple gradient, CSS grid cards, responsive).
-- `public/*.html` — generated pages: `index` (home), `talent` (20 category cards), `roster` (placeholder cards), `services`, `about`, `apply` (contact/apply form).
+- `public/*.html` — generated pages: `index` (home), `talent` (5 core desks + 52 expandable niches grouped by cluster + universal roles), `roster` (placeholder cards), `services`, `about`, `apply` (contact/apply form).
 - `vercel.json` — serves `public/` as static output, no build step.
 
 ## Run / deploy
@@ -29,7 +36,7 @@ vercel deploy --prod          # deploys (project is linked to henryfinnai's Verc
 The Vercel project was deployed via CLI and is **not yet connected to the GitHub repo** for auto-deploys — connect it in Vercel → Project → Settings → Git (or import solfinnai/human-agency).
 
 ## What's placeholder
-- Roster: 12 generic "Talent Name" cards with emoji avatars — no real talent.
+- Roster: 10 generic "Talent Name" cards (2 per core desk) with emoji avatars — no real talent.
 - Apply/contact form: opens the visitor's email app (`mailto:`) to `hello@humanagency.example` (fake address). No data is stored.
 - Brand: text logo only, no real imagery, no OG images, no favicon.
 - Copy is first-draft marketing copy.
@@ -42,6 +49,9 @@ The Vercel project was deployed via CLI and is **not yet connected to the GitHub
 4. **Booking / brand inquiry flow** (HEN-489) — budget, dates, shortlist, proposal tracking.
 5. **Auth: talent portal + admin** (HEN-490).
 6. **SEO, analytics, branding, domain** (HEN-491) — OG images, sitemap, robots, JSON-LD, Vercel Web Analytics, brand kit, custom domain, real inbox.
+
+## Legal: California talent-agency licence (blocker before procuring work)
+California's Talent Agencies Act requires a Labor Commissioner talent-agency licence for anyone who procures employment for artists, even incidentally by managers (Marathon v. Blasi). Before Human Agency procures bookings/deals for talent, it must either get licensed or operate as management working with a licensed agency partner. The site already says screen deals go through a licensed partner agency. Tracked in Linear (see HEN issue "California talent-agency licence").
 
 ## Rules from Henry
 - No Supabase or paid databases. Ask Henry before anything that costs money (domains, paid plans, paid CMS/auth tiers).

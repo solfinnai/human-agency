@@ -10,6 +10,7 @@ Talent agency site for anime, webtoons and comics: artists, webtoon creators, il
 | Linear project (roadmap issues HEN-486…HEN-491) | https://linear.app/henryfinnai/project/human-agency-5a307358cf8d |
 | Google Drive folder (docs / design / exports / data) | https://drive.google.com/drive/folders/1Uvx30UaaOQyJn8LM14C4TnDUceyG0U0f |
 | Notion project page | https://app.notion.com/p/3fafdcf928578162851bf9cdf7e2b9cc |
+| Handoff Google Doc | https://docs.google.com/document/d/17UEuHOE7OSvad2sTMhFDPrmjssakZNCSRZ2eIW23XR0/edit |
 | Vercel project | https://vercel.com/henryfinnai-1359s-projects/human-agency |
 
 ## Architecture (v0)
